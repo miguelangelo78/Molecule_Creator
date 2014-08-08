@@ -1,0 +1,26 @@
+#Tue Feb 11 22:22:05 GMT 2014
+generalprop_description=oxygen, O, 8
+atomicprop_atomicradius=unknown
+generalprop_hardness=none/unknown
+generalprop_density=0 \u00B0C, 101.325 kPa, 1.429 g/L
+miscprop_thermalconductivity=26.58x10-3 W.(m^-1).(K^-1)
+physicalprop_boilingpoint=90.20 K (-182.95\u00BAC or -297.31\u00BAF)
+miscprop_ionizationenergy=1st\: 1313.9 kJ.mol^-1. 2nd\: 3388.3 kJ.mol^-1. 3rd\: 5300.5 kJ.mol^-1. 
+atomicprop_vanderwaalsradius=152 pm
+physicalprop_meltingpoint=54.36 K (-218.79\u00BAC or -361.82\u00BAF)
+physicalprop_speedofsound=none/unknown
+generalprop_group=16
+miscprop_electronegativity=3.44 (Pauling scale)
+miscprop_electricconductivity=none/unknown
+atomicprop_covalentradius=1 pm
+physicalprop_statematter=Gas
+generalprop_chemicalseries=chalcogen
+atomicprop_oxidationstate=-2
+atomicprop_atomicweight=15.9994
+atomicprop_crystalstructure=cubic
+generalprop_period=2
+physicalprop_enthalpyoffusion=none/unknown
+physicalprop_magneticclass=paramagnetic
+physicalprop_vaporpressure=none/unknown
+physicalprop_molarvolume=none/unknown
+physicalprop_enthalpyofvaporization=none/unknown

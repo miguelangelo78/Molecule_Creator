@@ -1,0 +1,26 @@
+#Tue Feb 11 22:19:22 GMT 2014
+generalprop_description=lithium, Li, 3
+atomicprop_atomicradius=152 pm
+generalprop_hardness=0.6
+generalprop_density=0.534 g\u00B7cm\u02C6-3
+miscprop_thermalconductivity=84.8 W.(m^-1).(K^-1)
+physicalprop_boilingpoint=1615 K (1342\u00BAC or 2448\u00BAF)
+miscprop_ionizationenergy=1st\: 520.2 kJ.mol^-1. 2nd\: 7298.1 kJ.mol^-1. 3rd\: 11815.0 kJ.mol^-1. 
+atomicprop_vanderwaalsradius=182 pm
+physicalprop_meltingpoint=453.65 K (180.50\u00BAC or 356.90\u00BAF)
+physicalprop_speedofsound=none/unknown
+generalprop_group=1
+miscprop_electronegativity=0.98 (Pauling scale)
+miscprop_electricconductivity=none/unknown
+atomicprop_covalentradius=1 pm
+physicalprop_statematter=Solid
+generalprop_chemicalseries=alkali metal
+atomicprop_oxidationstate=+1
+atomicprop_atomicweight=6.941
+atomicprop_crystalstructure=body-centered cubic
+generalprop_period=2
+physicalprop_enthalpyoffusion=none/unknown
+physicalprop_magneticclass=none/unknown
+physicalprop_vaporpressure=none/unknown
+physicalprop_molarvolume=none/unknown
+physicalprop_enthalpyofvaporization=none/unknown

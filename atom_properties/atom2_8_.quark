@@ -1,0 +1,26 @@
+#Tue Feb 11 23:30:13 GMT 2014
+generalprop_description=neon, Ne, 10
+atomicprop_atomicradius=unknown
+generalprop_hardness=none/unknown
+generalprop_density=0 \u00B0C, 101.325 kPa, 0.9002 g/L
+miscprop_thermalconductivity=49.1<span style\="margin\:0 .15em 0 .25em">\u00C3\u2014</span>10\u00E2\u02C6\u20193 W.(m^-1).(K^-1)
+physicalprop_boilingpoint=27.07 K (-246.08\u00BAC or -410.94\u00BAF)
+miscprop_ionizationenergy=1st\: 2080.7 kJ.mol^-1. 2nd\: 3952.3 kJ.mol^-1. 3rd\: 6122 kJ.mol^-1. 
+atomicprop_vanderwaalsradius=154 pm
+physicalprop_meltingpoint=24.56 K (-248.59\u00BAC or -415.46\u00BAF)
+physicalprop_speedofsound=none/unknown
+generalprop_group=18
+miscprop_electronegativity=none/unknown
+miscprop_electricconductivity=none/unknown
+atomicprop_covalentradius=1 pm
+physicalprop_statematter=Gas
+generalprop_chemicalseries=noble gases
+atomicprop_oxidationstate=0
+atomicprop_atomicweight=20.1797
+atomicprop_crystalstructure=face-centered cubic
+generalprop_period=2
+physicalprop_enthalpyoffusion=none/unknown
+physicalprop_magneticclass=diamagnetic
+physicalprop_vaporpressure=none/unknown
+physicalprop_molarvolume=none/unknown
+physicalprop_enthalpyofvaporization=none/unknown

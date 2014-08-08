@@ -1,0 +1,26 @@
+#Tue Feb 11 23:24:31 GMT 2014
+generalprop_description=nitrogen, N, 7
+atomicprop_atomicradius=unknown
+generalprop_hardness=none/unknown
+generalprop_density=0 \u00B0C, 101.325 kPa, 1.251 g/L
+miscprop_thermalconductivity=25.83 x 10^-33 W.(m^-1).(K^-1)
+physicalprop_boilingpoint=77.36 K (-195.79\u00BAC or -320.44\u00BAF)
+miscprop_ionizationenergy=1st\: 1402.3 kJ.mol^-1. 2nd\: 2856 kJ.mol^-1. 3rd\: 4578.1 kJ.mol^-1. 
+atomicprop_vanderwaalsradius=155 pm
+physicalprop_meltingpoint=63.15 K (-210.00\u00BAC or -346.00\u00BAF)
+physicalprop_speedofsound=none/unknown
+generalprop_group=15
+miscprop_electronegativity=3.04 (Pauling scale)
+miscprop_electricconductivity=none/unknown
+atomicprop_covalentradius=1 pm
+physicalprop_statematter=Gas
+generalprop_chemicalseries=diatomic nonmetal
+atomicprop_oxidationstate=+5, +4, +3, +2, +1, -1, -2, -3
+atomicprop_atomicweight=14.0067
+atomicprop_crystalstructure=hexagonal
+generalprop_period=2
+physicalprop_enthalpyoffusion=none/unknown
+physicalprop_magneticclass=none/unknown
+physicalprop_vaporpressure=none/unknown
+physicalprop_molarvolume=none/unknown
+physicalprop_enthalpyofvaporization=none/unknown

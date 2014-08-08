@@ -1,0 +1,26 @@
+#Tue Feb 11 22:16:38 GMT 2014
+generalprop_description=helium, He, 2
+atomicprop_atomicradius=unknown
+generalprop_hardness=none/unknown
+generalprop_density=0 \u00B0C, 101.325 kPa, 0.1786 g/L
+miscprop_thermalconductivity=0.1513 W.(m^-1).(K^-1)
+physicalprop_boilingpoint=4.22 K (-268.93\u00BAC or -452.07\u00BAF)
+miscprop_ionizationenergy=1st\: 2372.3 kJ.mol^-1. 2nd\: 5250.5 kJ.mol^-1. 
+atomicprop_vanderwaalsradius=140 pm
+physicalprop_meltingpoint=0.95 K (-272.2\u00BAC or -458.0\u00BAF)
+physicalprop_speedofsound=none/unknown
+generalprop_group=18
+miscprop_electronegativity=no data (Pauling scale)
+miscprop_electricconductivity=none/unknown
+atomicprop_covalentradius=1 pm
+physicalprop_statematter=Gas
+generalprop_chemicalseries=noble gases
+atomicprop_oxidationstate=0
+atomicprop_atomicweight=4.002602
+atomicprop_crystalstructure=hexagonal close-packed
+generalprop_period=1
+physicalprop_enthalpyoffusion=none/unknown
+physicalprop_magneticclass=diamagnetic
+physicalprop_vaporpressure=none/unknown
+physicalprop_molarvolume=none/unknown
+physicalprop_enthalpyofvaporization=none/unknown

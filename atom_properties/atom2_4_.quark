@@ -1,0 +1,26 @@
+#Wed Feb 12 00:44:06 GMT 2014
+generalprop_description=carbon, C, 6
+atomicprop_atomicradius=unknown
+generalprop_hardness=10 (diamond) 1-2 (graphite)
+generalprop_density=amorphous\: 1.8-2.1 g\u00B7cm\u02C6-3
+miscprop_thermalconductivity=900-2300 (diamond)119-165 (graphite) W.(m^-1).(K^-1)
+physicalprop_boilingpoint=4098 K (3825\u00BAC or 6917\u00BAF)
+miscprop_ionizationenergy=1st\: 1086.5 kJ.mol^-1. 2nd\: 2352.6 kJ.mol^-1. 3rd\: 4620.5 kJ.mol^-1. 
+atomicprop_vanderwaalsradius=170 pm
+physicalprop_meltingpoint=3823 K (3550\u00BAC or 6422\u00BAF)
+physicalprop_speedofsound=none/unknown
+generalprop_group=14
+miscprop_electronegativity=2.55 (Pauling scale)
+miscprop_electricconductivity=none/unknown
+atomicprop_covalentradius=77 pm
+physicalprop_statematter=Solid
+generalprop_chemicalseries=metalloid
+atomicprop_oxidationstate=+4, +2, -4
+atomicprop_atomicweight=12.0107
+atomicprop_crystalstructure=diamond
+generalprop_period=2
+physicalprop_enthalpyoffusion=none/unknown
+physicalprop_magneticclass=diamagnetic
+physicalprop_vaporpressure=none/unknown
+physicalprop_molarvolume=none/unknown
+physicalprop_enthalpyofvaporization=none/unknown

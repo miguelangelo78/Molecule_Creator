@@ -1,0 +1,26 @@
+#Tue Feb 11 23:06:02 GMT 2014
+generalprop_description=beryllium, Be, 4
+atomicprop_atomicradius=112 pm
+generalprop_hardness=5.5
+generalprop_density=1.85 g\u00B7cm\u02C6-3
+miscprop_thermalconductivity=200 W.(m^-1).(K^-1)
+physicalprop_boilingpoint=2744 K (2471\u00BAC or 4480\u00BAF)
+miscprop_ionizationenergy=1st\: 899.5 kJ.mol^-1. 2nd\: 1757.1 kJ.mol^-1. 3rd\: 14848.7 kJ.mol^-1. 
+atomicprop_vanderwaalsradius=153 pm
+physicalprop_meltingpoint=1560 K (1287\u00BAC or 2349\u00BAF)
+physicalprop_speedofsound=none/unknown
+generalprop_group=2
+miscprop_electronegativity=1.57 (Pauling scale)
+miscprop_electricconductivity=none/unknown
+atomicprop_covalentradius=1 pm
+physicalprop_statematter=Solid
+generalprop_chemicalseries=alkaline earth metal
+atomicprop_oxidationstate=+2
+atomicprop_atomicweight=9.012182
+atomicprop_crystalstructure=hexagonal close-packed
+generalprop_period=2
+physicalprop_enthalpyoffusion=none/unknown
+physicalprop_magneticclass=diamagnetic
+physicalprop_vaporpressure=none/unknown
+physicalprop_molarvolume=none/unknown
+physicalprop_enthalpyofvaporization=none/unknown

@@ -1,0 +1,26 @@
+#Wed Feb 12 02:51:50 GMT 2014
+generalprop_description=boron, B, 5
+atomicprop_atomicradius=90 pm
+generalprop_hardness=~9.5
+generalprop_density=2.08 g\u00B7cm\u02C6-3
+miscprop_thermalconductivity=27.4 W.(m^-1).(K^-1)
+physicalprop_boilingpoint=4273 K (4000\u00BAC or 7232\u00BAF)
+miscprop_ionizationenergy=1st\: 800.6 kJ.mol^-1. 2nd\: 2427.1 kJ.mol^-1. 3rd\: 3659.7 kJ.mol^-1. 
+atomicprop_vanderwaalsradius=192 pm
+physicalprop_meltingpoint=2348 K (2075\u00BAC or 3767\u00BAF)
+physicalprop_speedofsound=none/unknown
+generalprop_group=13
+miscprop_electronegativity=2.04 (Pauling scale)
+miscprop_electricconductivity=none/unknown
+atomicprop_covalentradius=1 pm
+physicalprop_statematter=Solid
+generalprop_chemicalseries=metalloid
+atomicprop_oxidationstate=+3
+atomicprop_atomicweight=10.811
+atomicprop_crystalstructure=rhombohedral
+generalprop_period=2
+physicalprop_enthalpyoffusion=none/unknown
+physicalprop_magneticclass=diamagnetic
+physicalprop_vaporpressure=none/unknown
+physicalprop_molarvolume=none/unknown
+physicalprop_enthalpyofvaporization=none/unknown

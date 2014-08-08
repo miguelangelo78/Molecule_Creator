@@ -1,0 +1,26 @@
+#Tue Feb 11 22:51:29 GMT 2014
+generalprop_description=iron, Fe, 26
+atomicprop_atomicradius=126 pm
+generalprop_hardness=4
+generalprop_density=7.874 g\u00B7cm\u02C6-3
+miscprop_thermalconductivity=80.4 W.(m^-1).(K^-1)
+physicalprop_boilingpoint=3134 K (2861\u00BAC or 5182\u00BAF)
+miscprop_ionizationenergy=1st\: 762.5 kJ.mol^-1. 2nd\: 1561.9 kJ.mol^-1. 3rd\: 2957 kJ.mol^-1. 
+atomicprop_vanderwaalsradius=unknown
+physicalprop_meltingpoint=1811 K (1538\u00BAC or 2800\u00BAF)
+physicalprop_speedofsound=none/unknown
+generalprop_group=8
+miscprop_electronegativity=1.83 (Pauling scale)
+miscprop_electricconductivity=none/unknown
+atomicprop_covalentradius=132 pm
+physicalprop_statematter=Solid
+generalprop_chemicalseries=transition metal
+atomicprop_oxidationstate=+3, +2
+atomicprop_atomicweight=55.845
+atomicprop_crystalstructure=body-centered cubic
+generalprop_period=4
+physicalprop_enthalpyoffusion=none/unknown
+physicalprop_magneticclass=ferromagnetic
+physicalprop_vaporpressure=none/unknown
+physicalprop_molarvolume=none/unknown
+physicalprop_enthalpyofvaporization=none/unknown
